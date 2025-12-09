@@ -1,3 +1,8 @@
+/*Nombre: Andress Gómez
+Materia: Lenguaje de Programación I
+Evaluación: 3
+*/
+
 #include <stdio.h>
 
 int main() {
