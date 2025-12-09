@@ -10,10 +10,10 @@ Evaluación: 3
 int main() {
     int num1, num2, suma;
 
-    printf("Ingresa el primer número: ");
+    printf("=Ingresa el primer número: ");
     scanf("%d", &num1);
 
-    printf("Ingresa el segundo número: ");
+    printf("=Ingresa el segundo número: ");
     scanf("%d", &num2);
 
     suma = num1 + num2;
