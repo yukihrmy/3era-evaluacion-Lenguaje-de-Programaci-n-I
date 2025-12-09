@@ -20,6 +20,7 @@ int main() {
 
     printf("La suma es: %d\n", suma);
     printf("Cuidado! Esa suma podría ser peligrosa para tu calculadora :/.\n");
+   printf("\ngracias por usar la calculadora\n");
 
     return 0;
 }
