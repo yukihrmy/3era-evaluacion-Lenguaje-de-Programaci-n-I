@@ -1,4 +1,6 @@
-/*Nombre: Andress Gómez
+/*Nombres: 
+Andress Gómez
+Marcia Padilla
 Materia: Lenguaje de Programación I
 Evaluación: 3
 */
